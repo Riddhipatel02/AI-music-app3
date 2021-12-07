@@ -1,0 +1,30 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+body{
+    background-size:cover;
+}
+.gif1{
+    float:left;
+}
+.div_gif1_img{
+    width:200px;
+    border-radius:100px;
+}
+.gif2{
+    float:right;
+}
+.div_gif2_img{
+    width:200px;
+    border-radius:100px;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+}
